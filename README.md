@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Kimia Zolfaghari! 👋</h1>
 
 <p align="center">
+
+  
   🎓 Computer Engineering student at Babol Noshirvani University of Technology
   
   💻 Currently learning programming and web development  
