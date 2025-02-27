@@ -35,7 +35,8 @@
 ---
 
 ### 📫 How to Reach Me:
-📧 Email: [kimiazolfagharii@gmail.com](kimiazolfagharii@gmail.com)  
+📧 Email: [kimiazolfagharii@gmail.com](mailto:kimiazolfagharii@gmail.com)
+
 
 ---
 
